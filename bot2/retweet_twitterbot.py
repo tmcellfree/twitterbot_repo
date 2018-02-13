@@ -11,9 +11,9 @@ import re
 datestr = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')
 ################################
 #######ADJUST THESE!#############
-handle = 'cellfreelab' #this is your twitter handle
-dir = '/home/cellfree/twitterbots/'
-number_retweets = 2 #this is the number of retweets for each hashtag
+handle = '' #this is your twitter handle
+dir = '/home/twitterbots/' # this is the directory where the file lives
+number_retweets = 2 # this is the number of retweets for each hashtag
 #################################
 #################################
 path = dir+handle+'/'
