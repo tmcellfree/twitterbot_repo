@@ -1,7 +1,2 @@
-tomcellfree
-iancellfree
-alexcellfree
-emmacellfree
-helenecellfree
-marcelcellfree
-cellfreelab
+bot1
+bot2
